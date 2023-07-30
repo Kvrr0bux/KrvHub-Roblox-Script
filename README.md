@@ -1,6 +1,6 @@
-# Krv Hub - Best Solution Of Cheating for Games Like: YBA, BLOCK FRUIT, ETC.
-## Features
-### Auto Farm
+# Krv Hub - Best Hub Script | Лучший Хаб-Скрипт для Читанга
+## Features/Функции
+### Auto Farm/Авто Фарм
 
 Auto farm allows the player to automatically complete these tasks.  
 For example, a script can control the movement of a character, collect resources, perform certain actions or tasks,  
@@ -16,7 +16,7 @@ AutoHotKey
 Included Browser
 ```
 
-### ESP
+### ESP/ЕСП
 
 ESP cheat that highlights players in order
 to attack a person unnoticed
@@ -28,7 +28,7 @@ Line
 Tracers
 ```
 
-### Other Main Features
+### Other Main Features/Другие основные
 
 Aimbot - automatic aiming at the head of the player with whom you are fighting.  
 Triggerbot - the cheat will hit the player if the sight is aimed at him.  
@@ -42,7 +42,7 @@ AntiBot - the cheat will not respond to bots that the anti-cheat creates.
 Regen - fast regeneration of the amount of health of the character at a critical level.  
 Velocity - allows you to control the speed of the character (provides anti-knockback, nopush).  
 
-# How to Use
+# How to Use/Использование
 
 1. **Download Archive**  
 2. **Unpack Folder to Dekstop or etc.**  
@@ -51,11 +51,11 @@ Velocity - allows you to control the speed of the character (provides anti-knock
 5. **Then click Button *run script***  
 6. **Back to Game and Have Fun!**
 
-# Screenshots
+# Screenshots/Скрины
 
 ![132311223](https://github.com/Kvrr0bux/YBA.Krv.Hub/assets/138689728/4b584dd5-9bd2-4d86-9c81-b9fa2de60cf6)
 
-# Suppport <3
+# Suppport <3/Поддержка
 
 Credit Card: 5487 7799 1933 3242  
 BTC: n2fJ8i4E8FQGQ5WMabfgYc47Wvmpa9nuP1
